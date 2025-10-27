@@ -1,7 +1,7 @@
 # expand-RabinKarp  
 [알고리즘] 유전체 시드 정렬기 — Rabin-Karp 확장 (Bloom Filter + LSH + BandDP)
 
-본 프로젝트는 Rabin-Karp 문자열 탐색 알고리즘을 기반으로, Bloom Filter, *ocality Sensitive Hashing (LSH), Banded Dynamic Programming (BandDP)를 결합하여 오차 허용 기반의 short-read alignment를 수행하는 정렬 알고리즘 구현한 것입니다.
+본 프로젝트는 Rabin-Karp 문자열 탐색 알고리즘을 기반으로, Bloom Filter, locality Sensitive Hashing (LSH), Banded Dynamic Programming (BandDP)를 결합하여 오차 허용 기반의 short-read alignment를 수행하는 정렬 알고리즘 구현한 것입니다.
 
 ---
 
